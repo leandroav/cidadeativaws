@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 11,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/icon-cidade-ativa-128x1282.png",
+    "favicon": "@PROJECT_PATH@/assets/images/icon-cidade-ativa-128x128.png",
     "noImageResize": ""
   },
   "pages": {
@@ -52,19 +52,19 @@
           "_anchor": "dropdown-menu-2btn-5",
           "_params": {
             "bgColor": "#8ac485",
-            "fontSize": 1,
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "transparent": false,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": false,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icon-cidade-ativa-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/icon_cidade_ativa-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Cidade Ativa",
@@ -88,7 +88,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1424.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
@@ -99,7 +99,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1336.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
