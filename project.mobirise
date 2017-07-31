@@ -76,7 +76,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CI\u001bDADE ATIVA®</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-9\" aria-expanded=\"false\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>O produto</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Como funciona</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-e\" aria-expanded=\"true\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>Serviços Agregados</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Nossa oferta</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">Android</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">IOS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-9\" aria-expanded=\"false\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>O produto</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Como funciona</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-e\" aria-expanded=\"true\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>Serviços Agregados</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Nossa oferta</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">Android</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">IOS</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -108,7 +108,7 @@
                 "showTitle": true,
                 "title": "ECONOMIA",
                 "showText": true,
-                "text": "O Cidade Ativa® é uma plataforma para atender serviços. <br>Utilizar essa plataforma para atender serviços melhora a organização da sua informação, consegue mensurar os atendimentos, agiliza a solução dos problemas da cidade, otimiza o uso dos recursos e conseqüentemente economiza o dinheiro da prefeitura.<br>",
+                "text": "O Cidade Ativa® é uma plataforma para atender serviços. Utilizar essa plataforma para atender serviços melhora a organização da sua informação, consegue mensurar os atendimentos, agiliza a solução dos problemas da cidade, otimiza o uso dos recursos e conseqüentemente economiza o dinheiro da prefeitura.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -304,6 +304,20 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "15px",
+              "text-align": "left"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#4c6972"
+            }
+          },
           "_anchor": "features1-e",
           "_params": {
             "paddingTop": "2",
@@ -462,21 +476,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "15px",
-              "text-align": "left"
-            },
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#ffffff",
-              "font-size": "36px"
-            },
-            ".mbr-section__col .mbr-header__text": {
-              "color": "#4c6972"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_tags": [
