@@ -33,7 +33,9 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-size": "25px"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -58,7 +60,7 @@
             "transparent": false,
             "sticky": true,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true
           },
           "logo": {
@@ -73,7 +75,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CI\u001bDADE ATIVA®</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-9\" aria-expanded=\"false\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>O produto</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Como funciona</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>Serviços Agregados</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gererenciamento de Projetos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Nossa oferta</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">Android</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">IOS</a></li>"
         },
         {
