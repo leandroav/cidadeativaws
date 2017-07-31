@@ -323,7 +323,7 @@
             "showHeader": true,
             "showSubheader": false,
             "columns": "4",
-            "showImages": false,
+            "showImages": true,
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false
@@ -333,7 +333,6 @@
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
-              "active": true,
               "src": "images/bootstrap.png",
               "class": "mbr-figure__img",
               "width": 600
@@ -344,8 +343,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title1": "ASSESSMENT (AVALIACAO)",
@@ -353,7 +356,6 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
-              "active": true,
               "src": "images/responsive.png",
               "class": "mbr-figure__img",
               "width": 600
@@ -364,8 +366,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title2": "CUSTOMIZAÇÃO",
@@ -373,7 +379,6 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
-              "active": true,
               "src": "images/google-fonts.png",
               "class": "mbr-figure__img",
               "width": 600
@@ -384,8 +389,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title3": "TREINAMENTO",
@@ -393,7 +402,6 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
-              "active": true,
               "src": "images/unlimited-websites.png",
               "class": "mbr-figure__img",
               "width": 600
@@ -404,8 +412,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title4": "HOSPEDAGEM",
@@ -458,7 +470,7 @@
               "text-align": "left"
             },
             ".mbr-section-title .mbr-header__text": {
-              "color": "#4c6972",
+              "color": "#ffffff",
               "font-size": "36px"
             },
             ".mbr-section__col .mbr-header__text": {
