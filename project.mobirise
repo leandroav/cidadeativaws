@@ -82,6 +82,18 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "21px"
+            },
+            "H1": {
+              "font-size": "60px"
+            },
+            "SPAN": {
+              "font-size": "48px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -115,25 +127,22 @@
             "showBullets": true
           },
           "_anchor": "slider-8",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "21px"
-            },
-            "H1": {
-              "font-size": "60px"
-            },
-            "SPAN": {
-              "font-size": "48px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#2c82c9"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#252525",
+              "font-size": "30px"
+            }
+          },
           "_anchor": "features1-9",
           "_params": {
             "paddingTop": "2",
@@ -286,22 +295,20 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            ".mbr-section__col .mbr-header__text": {
-              "color": "#2c82c9"
-            },
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#252525",
-              "font-size": "30px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "30px"
+            }
+          },
           "_anchor": "form1-a",
           "_params": {
             "paddingTop": 3,
@@ -344,14 +351,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
         }
       ]
     }
